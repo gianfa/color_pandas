@@ -11,3 +11,4 @@ Check out the [Getting Started](https://github.com/gianfa/color_pandas/blob/main
 ```
 pip install color-pandas
 ```
+
